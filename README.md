@@ -1,4 +1,4 @@
-# maddiralakavitha79 <h1 align="center">Hi 👋, I'm Kavitha maddirala</h1>
+ <h1 align="center">Hi 👋, I'm Kavitha maddirala</h1>
 <h3 align="center">A passionate DATA SCIENCE STUDENT</h3>
 
 - 📫 How to reach me **maddiralakavitha79@gmail.com**
